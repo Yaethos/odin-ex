@@ -1,0 +1,33 @@
+main{
+    display: block;
+    text-align: center;
+    width: 1100px;
+    margin: auto auto;
+}
+
+.footer{     
+    position: relative;
+    text-align: center;    
+    top:5px;
+    bottom: 5px; 
+    width: 100%;
+}
+
+.game{
+    display: inline-block;
+    border: solid rgb(80, 202, 240) 1px;
+    text-align: center;
+    margin: 2px 0px 1px;
+}
+
+.title{
+    text-align: center;
+}
+
+img {
+    vertical-align:bottom;    
+}
+
+  img:hover {
+    filter: blur(3px);
+  }
